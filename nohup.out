@@ -1536,3 +1536,131 @@ Ctrl-C to stop.
 [36m[2022-12-17 20:25:01][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
 [36m[2022-12-17 20:25:02][00m [32m172.31.128.1:36748[00m was served file [35m/home/runner/Livro-Template/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
 [36m[2022-12-17 20:25:02][00m Created temp dir [35m$TEMP/http-home-runner-Livro-Template/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:36:08][00m [32m172.31.128.1:45622[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:36:08][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:36:09][00m [32m172.31.128.1:45624[00m was served file [35m/home/runner/Livro-Template/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:36:14][00m [32m172.31.128.1:36666[00m was served file [35m/home/runner/Livro-Template/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:36:40][00m [32m172.31.128.1:37218[00m was served file [35m/home/runner/Livro-Template/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:36:50][00m [32m172.31.128.1:60390[00m was served file [35m/home/runner/Livro-Template/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:37:30][00m [32m172.31.128.1:43690[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:37:30][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:37:42][00m [32m172.31.128.1:56434[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:37:42][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:37:52][00m [32m172.31.128.1:40080[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:37:52][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:37:58][00m [32m172.31.128.1:51492[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:37:58][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:38:16][00m [32m172.31.128.1:34450[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:38:16][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:38:22][00m [32m172.31.128.1:50856[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:38:22][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:38:55][00m [32m172.31.128.1:42744[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:38:55][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:39:13][00m [32m172.31.128.1:58466[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:39:13][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:47:46][00m [32m172.31.128.1:59660[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:47:46][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:51:38][00m [32m172.31.128.1:45562[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:51:38][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 20:54:38][00m [32m172.31.128.1:46912[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:54:38][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:58:23][00m [32m172.31.128.1:34362[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 20:58:23][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 21:02:02][00m [32m172.31.128.1:60678[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 21:02:02][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 21:09:37][00m [32m172.31.128.1:55682[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 21:09:37][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 23:14:45][00m [32m172.31.128.1:48034[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 23:14:45][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 23:14:48][00m [32m172.31.128.1:52698[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 23:14:48][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 23:14:53][00m [32m172.31.128.1:56368[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 23:14:53][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 23:14:55][00m [32m172.31.128.1:37788[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 23:14:55][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-12-17 23:15:01][00m [32m172.31.128.1:45564[00m was served file [35m/home/runner/Livro-Template/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-12-17 23:15:01][00m                              found index file for directory [35m/home/runner/Livro-Template[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
