@@ -2,15 +2,48 @@
 
 \documentclass[11pt, twoside]{book}
 \usepackage{arquivos/pacotes}
+\usepackage[Conny]{fncychap}
+% \input{arquivos/pageconf}
+
+% pdflatex main.tex && bibtex main.aux && makeindex -s arquivos/indexstyle.ist main && pdflatex main.tex && pdflatex main.tex && pdflatex main.tex && rm *.log *.aux *.lof *.toc *.lot *.out *.snm *.nav *.idx *.ilg *.ind *.bbl *.blg *.dvi *.bak *.sav *.lock && rm *~
+
+\makeindex
 
 \begin{document}
-	\chapter{Capítulo 1}
- 	\section{Espectroscopia}
-	\subsection{Espectroscopia Raman}
-	\chapter{Capítulo 2}
- 	\section{Espectroscopia}
-	\subsection{Espectroscopia Raman}
- 	\chapter{Capítulo 3}
- 	\section{Espectroscopia}
-	\subsection{Espectroscopia Raman}
+
+\frontmatter
+
+	\pagestyle{fancy}
+	\tableofcontents
+	\listoffigures
+	\listoftables
+ 
+\mainmatter
+
+	\chapter{Raman}
+		\section{Espectroscopia}
+			\subsection{Espectroscopia Raman}
+   				Hatuna Matata \cite{linux}
+	  
+	\chapter{InfraVermelho}
+		\section{Espectroscopia}
+			\subsection{Espectroscopia Raman}
+   				Arduino \cite{LaTeX}
+   
+	\chapter{Massa}
+		\section{Espectroscopia}
+			\subsection{Espectroscopia Raman}
+   				Arduino \cite{css}
+
+\appendix
+
+	\chapter{Massa}
+		\section{Espectroscopia}
+			\subsection{Espectroscopia Raman}
+
+\backmatter
+\bibliographystyle{unsrt} % Formatação da bibliografia (ver opções) -> unsrt, plain
+\bibliography{bibliografia}
+\printindex
+
 \end{document}
